@@ -1,0 +1,62 @@
+{
+  "model_en_us": {
+    "am": {
+      "final.mdl": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl",
+        "destination": "Downloads/model-en-us/am/final.mdl"
+      }
+    },
+    "conf": {
+      "mfcc.conf": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/conf/mfcc.conf",
+        "destination": "Downloads/model-en-us/conf/mfcc.conf"
+      },
+      "model.conf": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/conf/model.conf",
+        "destination": "Downloads/model-en-us/conf/model.conf"
+      }
+    },
+    "graph": {
+      "Gr.fst": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/Gr.fst",
+        "destination": "Downloads/model-en-us/graph/Gr.fst"
+      },
+      "HCLr.fst": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/HCLr.fst",
+        "destination": "Downloads/model-en-us/graph/HCLr.fst"
+      },
+      "disambig_tid.int": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/disambig_tid.int",
+        "destination": "Downloads/model-en-us/graph/disambig_tid.int"
+      },
+      "phones": {
+        "word_boundary": {
+          "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones/word_boundary.int",
+          "destination": "Downloads/model-en-us/graph/phones/word_boundary.int"
+        }
+      }
+    },
+    "ivector": {
+      "final.dubm": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector/final.dubm",
+        "destination": "Downloads/model-en-us/ivector/final.dubm"
+      },
+      "final.ie": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector/final.ie",
+        "destination": "Downloads/model-en-us/ivector/final.ie"
+      },
+      "global_cmvn.stats": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector/global_cmvn.stats",
+        "destination": "Downloads/model-en-us/ivector/global_cmvn.stats"
+      },
+      "online_cmvn.conf": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector/online_cmvn.conf",
+        "destination": "Downloads/model-en-us/ivector/online_cmvn.conf"
+      },
+      "splice.conf": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector/splice.conf",
+        "destination": "Downloads/model-en-us/ivector/splice.conf"
+      }
+    }
+  }
+}
