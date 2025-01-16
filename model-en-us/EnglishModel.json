@@ -1,5 +1,9 @@
 {
   "model_en_us": {
+    "libvosk.so": {
+    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/libvosk.so",
+    "destination": "libvosk.so"
+    },
     "am": {
       "final.mdl": {
         "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl",
@@ -133,10 +137,6 @@
     "ivector.meta": {
     "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector.meta",
     "destination": "model-en-us/ivector.meta"
-    },
-    "libvosk.so": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/libvosk.so",
-    "destination": "libvosk.so"
     }
   }
 }
