@@ -4,6 +4,10 @@
       "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/32Bit/libvosk.so",
       "destination": "libvosk.so"
     },
+    "libvosk.so.meta": {
+      "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/32Bit/libvosk.so.meta",
+      "destination": "libvosk.so.meta"
+    },
     "am": {
       "final.mdl": {
         "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/am/final.mdl",
