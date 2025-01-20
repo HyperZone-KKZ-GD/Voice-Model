@@ -1,14 +1,10 @@
 {
   "model_en_us": {
-    "am": {
-      "libvosk32.so": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/32Bit/libvosk32.so",
-    "destination": "32Bit/libvosk32.so"
-  },
-    "libvosk64.so": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/64Bit/libvosk64.so",
-    "destination": "64Bit/libvosk64.so"
+    "libvosk.so": {
+      "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/32Bit/libvosk.so",
+      "destination": "libvosk.so"
     },
+    "am": {
       "final.mdl": {
         "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/V_1.4.3/model-en-us/am/final.mdl",
         "destination": "model-en-us/am/final.mdl"
