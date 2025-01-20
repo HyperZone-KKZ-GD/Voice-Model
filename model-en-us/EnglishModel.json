@@ -1,14 +1,20 @@
 {
   "model_en_us": {
-    "am": {
-      "final.mdl": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl",
-        "destination": "model-en-us/am/final.mdl"
-      },
-      "final.mdl.meta": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl.meta",
-        "destination": "model-en-us/am/final.mdl.meta"
-      }
+    "am.meta": {
+    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+    "destination": "model-en-us/am.meta"
+    },
+    "conf.meta": {
+    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/conf.meta",
+    "destination": "model-en-us/conf.meta"
+    },
+    "graph.meta": {
+    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph.meta",
+    "destination": "model-en-us/graph.meta"
+    },
+    "ivector.meta": {
+    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector.meta",
+    "destination": "model-en-us/ivector.meta"
     },
     "conf": {
       "mfcc.conf": {
@@ -28,44 +34,14 @@
         "destination": "model-en-us/conf/model.conf.meta"
       }
     },
-    "graph": {
-      "Gr.fst": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/Gr.fst",
-        "destination": "model-en-us/graph/Gr.fst"
+    "am": {
+      "final.mdl": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl",
+        "destination": "model-en-us/am/final.mdl"
       },
-      "Gr.fst.meta": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/Gr.fst.meta",
-        "destination": "model-en-us/graph/Gr.fst.meta"
-      },
-      "HCLr.fst": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/HCLr.fst",
-        "destination": "model-en-us/graph/HCLr.fst"
-      },
-      "HCLr.fst.meta": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/HCLr.fst.meta",
-        "destination": "model-en-us/graph/HCLr.fst.meta"
-      },
-      "disambig_tid.int": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/disambig_tid.int",
-        "destination": "model-en-us/graph/disambig_tid.int"
-      },
-      "disambig_tid.int.meta": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/disambig_tid.int.meta",
-        "destination": "model-en-us/graph/disambig_tid.int.meta"
-      },
-      "phones": {
-        "word_boundary": {
-          "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones/word_boundary.int",
-          "destination": "model-en-us/graph/phones/word_boundary.int"
-        },
-        "word_boundary.meta": {
-          "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones/word_boundary.int.meta",
-          "destination": "model-en-us/graph/phones/word_boundary.int.meta"
-        }
-      },
-      "phones.meta": {
-        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones.meta",
-        "destination": "model-en-us/graph/phones.meta"
+      "final.mdl.meta": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am/final.mdl.meta",
+        "destination": "model-en-us/am/final.mdl.meta"
       }
     },
     "ivector": {
@@ -118,21 +94,45 @@
         "destination": "model-en-us/ivector/splice.conf.meta"
       }
     },
-    "am.meta": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
-    "destination": "model-en-us/am.meta"
-    },
-    "conf.meta": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/conf.meta",
-    "destination": "model-en-us/conf.meta"
-    },
-    "graph.meta": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph.meta",
-    "destination": "model-en-us/graph.meta"
-    },
-    "ivector.meta": {
-    "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/ivector.meta",
-    "destination": "model-en-us/ivector.meta"
+    "graph": {
+      "Gr.fst": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/Gr.fst",
+        "destination": "model-en-us/graph/Gr.fst"
+      },
+      "Gr.fst.meta": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/Gr.fst.meta",
+        "destination": "model-en-us/graph/Gr.fst.meta"
+      },
+      "HCLr.fst": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/HCLr.fst",
+        "destination": "model-en-us/graph/HCLr.fst"
+      },
+      "HCLr.fst.meta": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/HCLr.fst.meta",
+        "destination": "model-en-us/graph/HCLr.fst.meta"
+      },
+      "disambig_tid.int": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/disambig_tid.int",
+        "destination": "model-en-us/graph/disambig_tid.int"
+      },
+      "disambig_tid.int.meta": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/disambig_tid.int.meta",
+        "destination": "model-en-us/graph/disambig_tid.int.meta"
+      },
+      "phones": {
+        "word_boundary": {
+          "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones/word_boundary.int",
+          "destination": "model-en-us/graph/phones/word_boundary.int"
+        },
+        "word_boundary.meta": {
+          "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones/word_boundary.int.meta",
+          "destination": "model-en-us/graph/phones/word_boundary.int.meta"
+        }
+      },
+      "phones.meta": {
+        "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/graph/phones.meta",
+        "destination": "model-en-us/graph/phones.meta"
+      }
     }
   }
 }
