@@ -1,19 +1,19 @@
 {
   "Minigames": {
-        "GameName": {
-            "InGameName": "Game Name",
+        "ArrowApple": {
+            "InGameName": "Hit Target",
             "UseIcon": true,
             "IconData": {
                 "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
-                "destination": "model-en-us/am.meta"
+                "destination": "MiniGames/ArrowApple/Merge.png"
             },
             "Bundle": {
                 "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
-                "destination": "model-en-us/am.meta"
+                "destination": "MiniGames/ArrowApple/arrowapple_assets_all_1f31347189c73f4d16f80937215efb88.bundle"
             },
             "Catalog": {
                 "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
-                "destination": "model-en-us/am.meta"
+                "destination": "MiniGames/ArrowApple/catalog_1.9.0.json"
             }
         }
     }
