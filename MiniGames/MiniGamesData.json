@@ -4,15 +4,15 @@
             "InGameName": "Hit Target",
             "UseIcon": true,
             "IconData": {
-                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/ArrowApple/Merge.png",
                 "destination": "MiniGames/ArrowApple/Merge.png"
             },
             "Bundle": {
-                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/ArrowApple/arrowapple_assets_all_1f31347189c73f4d16f80937215efb88.bundle",
                 "destination": "MiniGames/ArrowApple/arrowapple_assets_all_1f31347189c73f4d16f80937215efb88.bundle"
             },
             "Catalog": {
-                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/ArrowApple/catalog_1.9.0.json",
                 "destination": "MiniGames/ArrowApple/catalog_1.9.0.json"
             }
         }
