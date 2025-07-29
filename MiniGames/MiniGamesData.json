@@ -1,10 +1,20 @@
 {
   "Minigames": {
-    "GameName" :{
-      "Data1" : "",
-      "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
-      "destination": "model-en-us/am.meta"
+        "GameName": {
+            "InGameName": "Game Name",
+            "UseIcon": true,
+            "IconData": {
+                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "destination": "model-en-us/am.meta"
+            },
+            "Bundle": {
+                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "destination": "model-en-us/am.meta"
+            },
+            "Catalog": {
+                "url": "https://github.com/HyperZone-KKZ-GD/Voice-Model/raw/refs/heads/main/model-en-us/am.meta",
+                "destination": "model-en-us/am.meta"
+            }
+        }
     }
-    
-  }
 }
