@@ -1,6 +1,6 @@
 {
   "Minigames": {
-        "AppleArrow": {
+        "MG_AppleArrow": {
             "InGameName": "Hit Target",
             "UseIcon": true,
             "IconData": {
