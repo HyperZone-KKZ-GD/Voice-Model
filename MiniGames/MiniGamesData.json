@@ -8,8 +8,8 @@
                 "destination": "MiniGames/AppleArrow/Merge.png"
             },
             "Bundle": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/arrowapple_assets_all.bundle",
-                "destination": "MiniGames/AppleArrow/arrowapple_assets_all.bundle"
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/applearrow_assets_all.bundle",
+                "destination": "MiniGames/AppleArrow/applearrow_assets_all.bundle"
             },
             "Catalog": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/catalog_1.9.1.json",
