@@ -14,7 +14,8 @@
             "Catalog": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/catalog_1.9.1.json",
                 "destination": "MiniGames/AppleArrow/catalog_1.9.1.json"
-            }
+            },
+            "CatalogVersion": "1.9.1"
         }
     }
 }
