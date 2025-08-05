@@ -16,6 +16,23 @@
                 "destination": "MiniGames/AppleArrow/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
+        },
+        "MG_BusJam": {
+            "InGameName": "Bus Jam",
+            "UseIcon": true,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "destination": "MiniGames/BusJam/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/BusJam/busjam_assets_all.bundle",
+                "destination": "MiniGames/BusJam/busjam_assets_all.bundle"
+            },
+            "Catalog": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/BusJam/catalog_1.9.1.json",
+                "destination": "MiniGames/BusJam/catalog_1.9.1.json"
+            },
+            "CatalogVersion": "1.9.1"
         }
     }
 }
