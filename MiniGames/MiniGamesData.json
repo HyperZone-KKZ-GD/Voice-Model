@@ -33,6 +33,23 @@
                 "destination": "MiniGames/BusJam/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
+        },
+        "MG_NutBolt": {
+            "InGameName": "Nut Bolt",
+            "UseIcon": true,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "destination": "MiniGames/NutBolt/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/NutBolt/nutbolt_assets_all.bundle",
+                "destination": "MiniGames/NutBolt/nutbolt_assets_all.bundle"
+            },
+            "Catalog": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/NutBolt/catalog_1.9.1.json",
+                "destination": "MiniGames/NutBolt/catalog_1.9.1.json"
+            },
+            "CatalogVersion": "1.9.1"
         }
     }
 }
