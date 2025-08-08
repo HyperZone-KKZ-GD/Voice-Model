@@ -67,6 +67,23 @@
                 "destination": "MiniGames/RampGames/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
+        },
+        "MG_SlingShotDunk": {
+            "InGameName": "Sling N Dunk",
+            "UseIcon": true,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
+                "destination": "MiniGames/SlingShotDunk/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/SlingShotDunk/slingshotdunk_assets_all.bundle",
+                "destination": "MiniGames/SlingShotDunk/slingshotdunk_assets_all.bundle"
+            },
+            "Catalog": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/SlingShotDunk/catalog_1.9.1.json",
+                "destination": "MiniGames/SlingShotDunk/catalog_1.9.1.json"
+            },
+            "CatalogVersion": "1.9.1"
         }
     }
 }
