@@ -4,15 +4,15 @@
             "InGameName": "Hit Target",
             "UseIcon": true,
             "IconData": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/AppleArrow/Merge.png"
             },
             "Bundle": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/applearrow_assets_all.bundle",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/applearrow_assets_all.bundle",
                 "destination": "MiniGames/AppleArrow/applearrow_assets_all.bundle"
             },
             "Catalog": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/catalog_1.9.1.json",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/catalog_1.9.1.json",
                 "destination": "MiniGames/AppleArrow/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
@@ -21,15 +21,15 @@
             "InGameName": "Bus Jam",
             "UseIcon": true,
             "IconData": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/BusJam/Merge.png"
             },
             "Bundle": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/BusJam/busjam_assets_all.bundle",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/BusJam/busjam_assets_all.bundle",
                 "destination": "MiniGames/BusJam/busjam_assets_all.bundle"
             },
             "Catalog": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/BusJam/catalog_1.9.1.json",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/BusJam/catalog_1.9.1.json",
                 "destination": "MiniGames/BusJam/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
@@ -38,15 +38,15 @@
             "InGameName": "Nut Bolt",
             "UseIcon": true,
             "IconData": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/NutBolt/Merge.png"
             },
             "Bundle": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/NutBolt/nutbolt_assets_all.bundle",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/NutBolt/nutbolt_assets_all.bundle",
                 "destination": "MiniGames/NutBolt/nutbolt_assets_all.bundle"
             },
             "Catalog": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/NutBolt/catalog_1.9.1.json",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/NutBolt/catalog_1.9.1.json",
                 "destination": "MiniGames/NutBolt/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
@@ -55,15 +55,15 @@
             "InGameName": "Ramp Games",
             "UseIcon": true,
             "IconData": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/RampGames/Merge.png"
             },
             "Bundle": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/RampGames/rampgames_assets_all.bundle",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/RampGames/rampgames_assets_all.bundle",
                 "destination": "MiniGames/RampGames/rampgames_assets_all.bundle"
             },
             "Catalog": {
-                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/RampGames/catalog_1.9.1.json",
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/RampGames/catalog_1.9.1.json",
                 "destination": "MiniGames/RampGames/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
