@@ -50,6 +50,23 @@
                 "destination": "MiniGames/NutBolt/catalog_1.9.1.json"
             },
             "CatalogVersion": "1.9.1"
+        },
+        "MG_RampGames": {
+            "InGameName": "Ramp Games",
+            "UseIcon": true,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/AppleArrow/Merge.png",
+                "destination": "MiniGames/RampGames/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/RampGames/rampgames_assets_all.bundle",
+                "destination": "MiniGames/RampGames/rampgames_assets_all.bundle"
+            },
+            "Catalog": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/MiniGames/MiniGames/RampGames/catalog_1.9.1.json",
+                "destination": "MiniGames/RampGames/catalog_1.9.1.json"
+            },
+            "CatalogVersion": "1.9.1"
         }
     }
 }
