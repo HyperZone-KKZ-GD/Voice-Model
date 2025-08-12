@@ -7,7 +7,7 @@
     "Minigames": {
         "MG_AppleArrow": {
             "InGameName": "Hit Target",
-            "UseIcon": true,
+            "UseIcon": false,
             "IconData": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/AppleArrow/Merge.png"
@@ -19,7 +19,7 @@
         },
         "MG_BusJam": {
             "InGameName": "Bus Jam",
-            "UseIcon": true,
+            "UseIcon": false,
             "IconData": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/BusJam/Merge.png"
@@ -31,7 +31,7 @@
         },
         "MG_NutBolt": {
             "InGameName": "Nut Bolt",
-            "UseIcon": true,
+            "UseIcon": false,
             "IconData": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/NutBolt/Merge.png"
@@ -42,8 +42,8 @@
             }
         },
         "MG_RampGames": {
-            "InGameName": "Ramp Games",
-            "UseIcon": true,
+            "InGameName": "Card Battle",
+            "UseIcon": false,
             "IconData": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/RampGames/Merge.png"
@@ -55,7 +55,7 @@
         },
         "MG_SlingShotDunk": {
             "InGameName": "Sling N Dunk",
-            "UseIcon": true,
+            "UseIcon": false,
             "IconData": {
                 "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/AppleArrow/Merge.png",
                 "destination": "MiniGames/SlingShotDunk/Merge.png"
