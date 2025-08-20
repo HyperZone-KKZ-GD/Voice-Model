@@ -1,0 +1,69 @@
+{
+    "CatalogVersion": "1.9.2",
+    "Catalog": {
+        "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/catalog_1.9.2.json",
+        "destination": "MiniGames/1.9.2/catalog_1.9.2.json"
+    },
+    "Minigames": {
+        "MG_AppleArrow": {
+            "InGameName": "Hit Target",
+            "UseIcon": false,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/AppleArrow/Merge.png",
+                "destination": "MiniGames/1.9.2/AppleArrow/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/applearrow_assets_all.bundle",
+                "destination": "MiniGames/1.9.2/applearrow_assets_all.bundle"
+            }
+        },
+        "MG_BusJam": {
+            "InGameName": "Bus Jam",
+            "UseIcon": false,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/AppleArrow/Merge.png",
+                "destination": "MiniGames/1.9.2/BusJam/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/busjam_assets_all.bundle",
+                "destination": "MiniGames/1.9.2/busjam_assets_all.bundle"
+            }
+        },
+        "MG_NutBolt": {
+            "InGameName": "Nut Bolt",
+            "UseIcon": false,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/AppleArrow/Merge.png",
+                "destination": "MiniGames/1.9.2/NutBolt/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/nutbolt_assets_all.bundle",
+                "destination": "MiniGames/1.9.2/nutbolt_assets_all.bundle"
+            }
+        },
+        "MG_RampGames": {
+            "InGameName": "Card Battle",
+            "UseIcon": false,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/AppleArrow/Merge.png",
+                "destination": "MiniGames/1.9.2/RampGames/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/rampgames_assets_all.bundle",
+                "destination": "MiniGames/1.9.2/rampgames_assets_all.bundle"
+            }
+        },
+        "MG_SlingShotDunk": {
+            "InGameName": "Sling N Dunk",
+            "UseIcon": false,
+            "IconData": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/AppleArrow/Merge.png",
+                "destination": "MiniGames/1.9.2/SlingShotDunk/Merge.png"
+            },
+            "Bundle": {
+                "url": "https://raw.githubusercontent.com/HyperZone-KKZ-GD/Voice-Model/refs/heads/main/MiniGames/1.9.2/slingshotdunk_assets_all.bundle",
+                "destination": "MiniGames/1.9.2/slingshotdunk_assets_all.bundle"
+            }
+        }
+    }
+}
